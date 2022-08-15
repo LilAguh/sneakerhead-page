@@ -1,0 +1,802 @@
+[
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/445/308/original/719082_00.png.png",
+        "lowest_price": 184.0,
+        "name": "Dunk Low 'Black White'",
+        "query_id": "dunk-low-black-white-dd1391-100",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 17.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/333/263/original/895934_00.png.png",
+        "lowest_price": 290.0,
+        "name": "Air Jordan 4 Retro 'Military Black'",
+        "query_id": "air-jordan-4-retro-military-black-dh6927-111",
+        "retail_price": 210.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/779/355/original/981489_00.png.png",
+        "lowest_price": 201.0,
+        "name": "Air Jordan 5 Retro 'Concord'",
+        "query_id": "air-jordan-5-retro-concord-dd0587-141",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 10.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/069/879/089/original/907868_00.png.png",
+        "lowest_price": 142.0,
+        "name": "Yeezy Foam Runner 'Onyx'",
+        "query_id": "yeezy-foam-runner-onyx-hp8739",
+        "retail_price": 80.0
+    },
+    {
+        "displayed_size": 5.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/800/579/original/923736_00.png.png",
+        "lowest_price": 288.0,
+        "name": "Yeezy Boost 350 'Turtle Dove' 2022",
+        "query_id": "yeezy-boost-350-turtle-dove-2022-aq4832-2022",
+        "retail_price": 230.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/072/273/668/original/884794_00.png.png",
+        "lowest_price": 75.0,
+        "name": "Yeezy Slides 'Onyx'",
+        "query_id": "yeezy-slides-onyx-hq6448",
+        "retail_price": 60.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/054/238/original/952291_00.png.png",
+        "lowest_price": 103.0,
+        "name": "Yeezy Slides 'Bone' 2022",
+        "query_id": "yeezy-slides-bone-2022-re-release-fz5897",
+        "retail_price": 70.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/061/943/941/original/791362_00.png.png",
+        "lowest_price": 310.0,
+        "name": "Air Jordan 4 Retro 'Red Thunder'",
+        "query_id": "air-jordan-4-retro-red-thunder-ct8527-016",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/445/330/original/719075_00.png.png",
+        "lowest_price": 157.0,
+        "name": "Dunk Low GS 'Black White'",
+        "query_id": "dunk-low-gs-black-white-cw1590-100",
+        "retail_price": 85.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/072/682/079/original/895937_00.png.png",
+        "lowest_price": 203.0,
+        "name": "Air Jordan 1 Retro High OG 'Stage Haze'",
+        "query_id": "air-jordan-1-retro-high-og-stage-haze-555088-108",
+        "retail_price": 170.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/076/004/539/original/YZY_FOAM_RNR_MX_CARBON.png.png",
+        "lowest_price": 185.0,
+        "name": "Yeezy Foam Runner 'MX Carbon'",
+        "query_id": "yeezy-foam-runner-mx-carbon-yzy-foam-rnr-mx-carbon",
+        "retail_price": 90.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/076/535/375/original/994560_00.png.png",
+        "lowest_price": 244.0,
+        "name": "Yeezy Boost 700 'Hi-Res Blue'",
+        "query_id": "yeezy-boost-700-hi-res-blue-ho6674",
+        "retail_price": 260.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/064/535/242/original/704157_00.png.png",
+        "lowest_price": 196.0,
+        "name": "Air Jordan 11 Retro 'Cool Grey' 2021",
+        "query_id": "air-jordan-11-retro-cool-grey-2021-ct8012-005",
+        "retail_price": 225.0
+    },
+    {
+        "displayed_size": 5.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/445/292/original/722965_00.png.png",
+        "lowest_price": 177.0,
+        "name": "Wmns Dunk Low 'Black White'",
+        "query_id": "wmns-dunk-low-black-white-dd1503-101",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/070/041/022/original/888097_00.png.png",
+        "lowest_price": 240.0,
+        "name": "Air Jordan 4 Retro 'Infrared'",
+        "query_id": "air-jordan-4-retro-infrared-dh6927-061",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 12.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/423/162/original/940616_00.png.png",
+        "lowest_price": 98.0,
+        "name": "Air Jordan 4 Retro PS 'Military Black'",
+        "query_id": "air-jordan-4-retro-ps-military-black-bq7669-111",
+        "retail_price": 0.0
+    },
+    {
+        "displayed_size": 13.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/929/452/original/935565_00.png.png",
+        "lowest_price": 161.0,
+        "name": "Air Jordan 4 Retro GS 'Military Black'",
+        "query_id": "air-jordan-4-retro-gs-military-black-408452-111",
+        "retail_price": 0.0
+    },
+    {
+        "displayed_size": 9.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/073/256/581/original/888101_00.png.png",
+        "lowest_price": 168.0,
+        "name": "Wmns Dunk Low 'Rose Whisper'",
+        "query_id": "wmns-dunk-low-rose-whisper-dd1503-118",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 13.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/326/086/original/854208_00.png.png",
+        "lowest_price": 990.0,
+        "name": "Travis Scott x Air Jordan 1 Low OG 'Reverse Mocha'",
+        "query_id": "travis-scott-x-air-jordan-1-low-og-reverse-mocha-dm7866-162",
+        "retail_price": 150.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/062/992/402/original/784379_00.png.png",
+        "lowest_price": 195.0,
+        "name": "Air Jordan 1 Retro High OG 'Patent Bred'",
+        "query_id": "air-jordan-1-retro-high-og-patent-bred-555088-063",
+        "retail_price": 170.0
+    },
+    {
+        "displayed_size": 5.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/008/654/949/original/67147_00.png.png",
+        "lowest_price": 255.0,
+        "name": "Yeezy Boost 350 V2 'Red'",
+        "query_id": "yeezy-boost-350-v2-by9612",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 1.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/829/268/original/946191_00.png.png",
+        "lowest_price": 223.0,
+        "name": "Travis Scott x Air Jordan 1 Low OG TD 'Reverse Mocha'",
+        "query_id": "travis-scott-x-air-jordan-1-low-og-ps-reverse-mocha-do5441-162",
+        "retail_price": 60.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/222/591/original/DH9765_600.png.png",
+        "lowest_price": 179.0,
+        "name": "Dunk Low GS 'Triple Pink'",
+        "query_id": "dunk-low-gs-triple-pink-dh9765-600",
+        "retail_price": 0.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/073/718/016/original/834455_00.png.png",
+        "lowest_price": 198.0,
+        "name": "Air Jordan 3 Retro 'Dark Iris'",
+        "query_id": "air-jordan-3-retro-dark-iris-ct8532-105",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 11.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/407/619/original/529535_00.png.png",
+        "lowest_price": 700.0,
+        "name": "Air Jordan 4 Retro 'Black Cat' 2020",
+        "query_id": "air-jordan-4-retro-black-cat-2020-cu1110-010",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 9.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/076/377/004/original/994556_00.png.png",
+        "lowest_price": 199.0,
+        "name": "Yeezy 450 'Utility Black'",
+        "query_id": "yeezy-450-utility-black-hq3665",
+        "retail_price": 210.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/073/839/641/original/895935_00.png.png",
+        "lowest_price": 180.0,
+        "name": "Air Jordan 3 Retro 'Desert Elephant'",
+        "query_id": "air-jordan-3-retro-desert-ct8532-008",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/046/247/195/original/612313_00.png.png",
+        "lowest_price": 296.0,
+        "name": "Air Jordan 4 Retro OG 'Fire Red' 2020",
+        "query_id": "air-jordan-4-retro-og-fire-red-2020-dc7770-160",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/049/887/651/original/599627_00.png.png",
+        "lowest_price": 360.0,
+        "name": "Air Jordan 1 Retro High OG 'University Blue'",
+        "query_id": "air-jordan-1-retro-high-og-university-blue-555088-134",
+        "retail_price": 170.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/209/345/original/942086_00.png.png",
+        "lowest_price": 191.0,
+        "name": "Air Jordan 3 Retro 'Fire Red' 2022",
+        "query_id": "air-jordan-3-retro-fire-red-2022-dn3707-160",
+        "retail_price": 210.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/072/273/708/original/815559_00.png.png",
+        "lowest_price": 125.0,
+        "name": "Yeezy Slides 'Pure' 2021 Re-Release",
+        "query_id": "yeezy-slide-pure-2021-re-release-gw1934",
+        "retail_price": 60.0
+    },
+    {
+        "displayed_size": 6.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/076/183/167/original/999935_00.png.png",
+        "lowest_price": 118.0,
+        "name": "Wmns Air Jordan 1 Mid SE 'Homage'",
+        "query_id": "wmns-air-jordan-1-mid-se-homage-dr0501-101",
+        "retail_price": 120.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/068/834/266/original/843928_00.png.png",
+        "lowest_price": 198.0,
+        "name": "Air Jordan 6 Retro 'UNC Home'",
+        "query_id": "air-jordan-6-retro-unc-home-ct8529-410",
+        "retail_price": 210.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/039/010/750/original/651749_00.png.png",
+        "lowest_price": 202.0,
+        "name": "Yeezy Foam Runner 'Ararat'",
+        "query_id": "yeezy-foam-runner-ararat-g55489",
+        "retail_price": 75.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/067/561/514/original/884790_00.png.png",
+        "lowest_price": 214.0,
+        "name": "Yeezy Boost 350 V2 'Dazzling Blue'",
+        "query_id": "yeezy-boost-350-v2-dazzling-blue-gy7164",
+        "retail_price": 230.0
+    },
+    {
+        "displayed_size": 2.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/073/720/121/original/907898_00.png.png",
+        "lowest_price": 104.0,
+        "name": "Dunk Low PS 'Wolf Grey'",
+        "query_id": "dunk-low-ps-wolf-grey-dh9756-001",
+        "retail_price": 65.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/069/692/759/original/896849_00.png.png",
+        "lowest_price": 245.0,
+        "name": "Yeezy Boost 350 V2 'Bone'",
+        "query_id": "yeezy-boost-350-v2-pure-oat-hq6316",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/067/602/854/original/195483_00.png.png",
+        "lowest_price": 338.0,
+        "name": "Yeezy Boost 700 'Wave Runner'",
+        "query_id": "yeezy-wave-runner-700-76fa2bf7-9596-46cb-9842-e024a94baa6c",
+        "retail_price": 300.0
+    },
+    {
+        "displayed_size": 15.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/020/806/485/original/461782_00.png.png",
+        "lowest_price": 320.0,
+        "name": "Air Jordan 4 Retro OG 'Bred' 2019",
+        "query_id": "air-jordan-4-retro-bred-2019-308497-060",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/058/005/414/original/704168_00.png.png",
+        "lowest_price": 288.0,
+        "name": "Air Jordan 4 Retro 'Lightning' 2021",
+        "query_id": "air-jordan-4-retro-lightning-2021-ct8527-700",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 11.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/020/287/568/original/480136_00.png.png",
+        "lowest_price": 254.0,
+        "name": "Yeezy Boost 700 'Analog'",
+        "query_id": "yeezy-boost-700-analog-yeezy-boost-700-analog",
+        "retail_price": 300.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/068/883/871/original/906312_00.png.png",
+        "lowest_price": 155.0,
+        "name": "Yeezy Foam Runner 'Stone Sage'",
+        "query_id": "yeezy-foam-runner-stone-sage-gx4472",
+        "retail_price": 80.0
+    },
+    {
+        "displayed_size": 6.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/385/870/original/931672_00.png.png",
+        "lowest_price": 305.0,
+        "name": "Dunk Low 'Jackie Robinson'",
+        "query_id": "dunk-low-jackie-robinson-dv2122-400",
+        "retail_price": 130.0
+    },
+    {
+        "displayed_size": 15.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/054/789/997/original/697107_00.png.png",
+        "lowest_price": 362.0,
+        "name": "Air Jordan 4 Retro 'White Oreo'",
+        "query_id": "air-jordan-4-retro-oreo-ct8527-100",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 7.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/222/579/original/DD1391_400.png.png",
+        "lowest_price": 169.0,
+        "name": "Dunk Low 'Valerian Blue'",
+        "query_id": "dunk-low-usa-dd1391-400",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 5.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/030/083/590/original/564448_00.png.png",
+        "lowest_price": 232.0,
+        "name": "Yeezy 700 V3 'Azael'",
+        "query_id": "yeezy-boost-700-v3-azael-yzy-700v3",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/059/759/015/original/789240_00.png.png",
+        "lowest_price": 100.0,
+        "name": "Dunk High 'White Black'",
+        "query_id": "dunk-high-white-black-dd1399-105",
+        "retail_price": 115.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/051/754/897/original/631510_00.png.png",
+        "lowest_price": 414.0,
+        "name": "Air Jordan 4 Retro 'University Blue'",
+        "query_id": "air-jordan-4-retro-university-blue-ct8527-400",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 10.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/060/556/615/original/816402_00.png.png",
+        "lowest_price": 143.0,
+        "name": "Air Jordan 1 Mid 'College Grey'",
+        "query_id": "air-jordan-1-mid-linen-554724-082",
+        "retail_price": 120.0
+    },
+    {
+        "displayed_size": 18.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/043/946/217/original/567948_00.png.png",
+        "lowest_price": 322.0,
+        "name": "Air Jordan 1 Retro High OG 'Dark Mocha'",
+        "query_id": "air-jordan-1-retro-high-og-555088-105",
+        "retail_price": 170.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/487/425/original/999930_00.png.png",
+        "lowest_price": 213.0,
+        "name": "Dunk Low SB 'Los Angeles Dodgers'",
+        "query_id": "dunk-low-sb-los-angeles-dodgers-do9395-400",
+        "retail_price": 110.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/054/789/466/original/747562_00.png.png",
+        "lowest_price": 310.0,
+        "name": "Dunk Low 'University Blue'",
+        "query_id": "dunk-low-university-blue-dd1391-102",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 17.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/047/069/777/original/566994_00.png.png",
+        "lowest_price": 210.0,
+        "name": "Air Jordan 11 Retro 'Jubilee / 25th Anniversary'",
+        "query_id": "air-jordan-11-retro-clear-black-ct8012-011",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/076/061/394/original/FZ5907.png.png",
+        "lowest_price": 209.0,
+        "name": "Yeezy Knit Runner 'Faded Azure'",
+        "query_id": "yeezy-knit-runner-faded-azure-fz5907",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 18.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/067/833/885/original/889970_00.png.png",
+        "lowest_price": 148.0,
+        "name": "Air Jordan 1 Mid SE 'Diamond'",
+        "query_id": "air-jordan-1-mid-se-diamond-shorts-dh6933-100",
+        "retail_price": 120.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/070/905/517/original/890902_00.png.png",
+        "lowest_price": 180.0,
+        "name": "Air Jordan 5 Retro 'Green Bean' 2022",
+        "query_id": "air-jordan-5-green-bean-dm9014-003",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 6.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/072/216/898/original/886847_00.png.png",
+        "lowest_price": 305.0,
+        "name": "Yeezy Boost 350 V2 'Onyx'",
+        "query_id": "yeezy-boost-350-v2-onyx-hq4540",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 8.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/072/630/011/original/937348_00.png.png",
+        "lowest_price": 116.0,
+        "name": "Air Jordan 1 Low SE Craft 'Inside Out'",
+        "query_id": "air-jordan-1-low-inside-out-dn1635-100",
+        "retail_price": 120.0
+    },
+    {
+        "displayed_size": 9.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/689/168/original/BB550LWT.png.png",
+        "lowest_price": 153.0,
+        "name": "550 'Sea Salt Black'",
+        "query_id": "550-cream-black-bb550lwt",
+        "retail_price": 110.0
+    },
+    {
+        "displayed_size": 7.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/102/684/original/992773_00.png.png",
+        "lowest_price": 117.0,
+        "name": "Dunk Low 'Reverse Panda'",
+        "query_id": "dunk-low-reverse-panda-dj6188-101",
+        "retail_price": 0.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/072/573/497/original/935289_00.png.png",
+        "lowest_price": 200.0,
+        "name": "Dunk Low Premium SB 'Philadelphia Phillies'",
+        "query_id": "dunk-low-premium-sb-philadelphia-phillies-dq4040-400",
+        "retail_price": 115.0
+    },
+    {
+        "displayed_size": 5.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/039/610/544/original/603678_00.png.png",
+        "lowest_price": 1125.0,
+        "name": "Off-White x Wmns Air Jordan 4 SP 'Sail'",
+        "query_id": "off-white-x-wmns-air-jordan-4-sp-sail-cv9388-100",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/064/377/034/original/815796_00.png.png",
+        "lowest_price": 134.0,
+        "name": "Air Jordan 1 Retro High OG 'Dark Marina Blue'",
+        "query_id": "air-jordan-1-retro-high-og-dark-marina-blue-555088-404",
+        "retail_price": 170.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/073/151/637/original/408452_061.png.png",
+        "lowest_price": 155.0,
+        "name": "Air Jordan 4 Retro GS 'Infrared'",
+        "query_id": "air-jordan-4-retro-gs-infrared-408452-061",
+        "retail_price": 160.0
+    },
+    {
+        "displayed_size": 10.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/073/897/706/original/926171_00.png.png",
+        "lowest_price": 140.0,
+        "name": "Air Jordan 1 Low 'Shadow Toe'",
+        "query_id": "air-jordan-1-low-shadow-toe-553558-052",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 6.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/048/340/054/original/712867_00.png.png",
+        "lowest_price": 98.0,
+        "name": "Air Force 1 '07 'Triple White'",
+        "query_id": "air-force-1-07-triple-white-cw2288-111",
+        "retail_price": 0.0
+    },
+    {
+        "displayed_size": 5.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/008/707/328/original/152603_00.png.png",
+        "lowest_price": 212.0,
+        "name": "Yeezy Boost 350 V2 'Blue Tint'",
+        "query_id": "yeezy-boost-350-v2-b37571",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/052/891/410/original/724738_00.png.png",
+        "lowest_price": 160.0,
+        "name": "Air Jordan 5 Retro 'Raging Bull' 2021",
+        "query_id": "air-jordan-5-retro-raging-bull-2021-dd0587-600",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 5.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/070/440/090/original/878622_00.png.png",
+        "lowest_price": 230.0,
+        "name": "Wmns Air Jordan 4 Retro 'Blank Canvas'",
+        "query_id": "wmns-air-jordan-4-retro-canvas-dq4909-100",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 6.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/070/278/009/original/105568_00.png.png",
+        "lowest_price": 269.0,
+        "name": "Yeezy Boost 350 V2 'Zebra'",
+        "query_id": "yeezy-boost-350-v2-zebra-cp9654",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/066/685/865/original/824865_00.png.png",
+        "lowest_price": 210.0,
+        "name": "Air Jordan 5 Retro 'Racer Blue'",
+        "query_id": "air-jordan-5-retro-racer-blue-ct4838-004",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/386/031/original/895931_00.png.png",
+        "lowest_price": 169.0,
+        "name": "Air Jordan 11 Retro Low '72-10'",
+        "query_id": "air-jordan-11-retro-low-72-10-av2187-001",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/008/655/040/original/94407_00.png.png",
+        "lowest_price": 242.0,
+        "name": "Yeezy Boost 350 V2 'Bred'",
+        "query_id": "yeezy-boost-350-v2-bred-cp9652",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 12.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/445/316/original/719076_00.png.png",
+        "lowest_price": 80.0,
+        "name": "Dunk Low PS 'Black White'",
+        "query_id": "dunk-low-ps-black-white-cw1588-100",
+        "retail_price": 65.0
+    },
+    {
+        "displayed_size": 5.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/070/389/280/original/892659_00.png.png",
+        "lowest_price": 142.0,
+        "name": "Wmns Dunk Low 'Orange Paisley'",
+        "query_id": "wmns-dunk-low-orange-paisley-dh4401-103",
+        "retail_price": 120.0
+    },
+    {
+        "displayed_size": 1.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/059/084/475/original/782544_00.png.png",
+        "lowest_price": 149.0,
+        "name": "Air Jordan 4 Retro PS 'White Oreo'",
+        "query_id": "air-jordan-4-retro-ps-white-oreo-bq7669-100",
+        "retail_price": 80.0
+    },
+    {
+        "displayed_size": 4.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/058/392/085/original/802585_00.png.png",
+        "lowest_price": 268.0,
+        "name": "Yeezy 700 V3 'Dark Glow'",
+        "query_id": "yeezy-700-v3-dark-glow-yzy-700-v3-dark-glow",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/056/052/227/original/781801_00.png.png",
+        "lowest_price": 169.0,
+        "name": "550 'White Green'",
+        "query_id": "550-white-green-bb550wt1",
+        "retail_price": 120.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/062/718/154/original/817414_00.png.png",
+        "lowest_price": 147.0,
+        "name": "NBA x Dunk Low EMB '75th Anniversary - Bulls'",
+        "query_id": "nba-x-dunk-low-emb-75th-anniversary-chicago-dd3363-100",
+        "retail_price": 110.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/073/122/530/original/937821_00.png.png",
+        "lowest_price": 88.0,
+        "name": "Yeezy Slide 'Glow Green' 2022",
+        "query_id": "yeezy-slide-glow-green-2022-hq6447",
+        "retail_price": 60.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/069/236/749/original/838649_00.png.png",
+        "lowest_price": 143.0,
+        "name": "Air Jordan 1 High OG 'Rebellionaire'",
+        "query_id": "air-jordan-1-high-og-rebellionaire-555088-036",
+        "retail_price": 170.0
+    },
+    {
+        "displayed_size": 9.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/779/686/original/890914_00.png.png",
+        "lowest_price": 214.0,
+        "name": "Air Jordan 7 Retro 'Citrus' 2022",
+        "query_id": "air-jordan-7-retro-citrus-cu9307-081",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/066/540/550/original/881038_00.png.png",
+        "lowest_price": 190.0,
+        "name": "Dunk Low 'Championship Purple'",
+        "query_id": "dunk-low-court-purple-dd1391-104",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/068/829/100/original/907039_00.png.png",
+        "lowest_price": 132.0,
+        "name": "Dunk Low GS 'Pure Platinum'",
+        "query_id": "dunk-low-gs-wolf-grey-dh9765-001",
+        "retail_price": 85.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/047/069/781/original/478948_00.png.png",
+        "lowest_price": 220.0,
+        "name": "Air Jordan 11 Retro 'Bred' 2019",
+        "query_id": "air-jordan-11-retro-bred-378037-061",
+        "retail_price": 220.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/066/248/031/original/858712_00.png.png",
+        "lowest_price": 164.0,
+        "name": "Air Jordan 12 Retro 'Playoff' 2022",
+        "query_id": "air-jordan-12-retro-playoff-2022-ct8013-006",
+        "retail_price": 210.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/068/301/151/original/884871_00.png.png",
+        "lowest_price": 237.0,
+        "name": "Air Jordan 3 Retro 'Cardinal Red'",
+        "query_id": "air-jordan-3-retro-cardinal-red-ct8532-126",
+        "retail_price": 200.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/061/755/485/original/819009_00.png.png",
+        "lowest_price": 197.0,
+        "name": "Air Jordan 3 Retro 'Pine Green'",
+        "query_id": "air-jordan-3-retro-pine-green-ct8532-030",
+        "retail_price": 190.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/068/936/510/original/883900_00.png.png",
+        "lowest_price": 138.0,
+        "name": "Dunk Low Premium 'Vast Grey'",
+        "query_id": "dunk-low-premium-vast-grey-dd8338-001",
+        "retail_price": 110.0
+    },
+    {
+        "displayed_size": 9.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/831/807/original/998207_00.png.png",
+        "lowest_price": 148.0,
+        "name": "Dunk Low Retro 'Gym Red'",
+        "query_id": "dunk-low-retro-gym-red-dd1391-602",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/060/556/759/original/815560_00.png.png",
+        "lowest_price": 274.0,
+        "name": "Dunk Low 'Grey Fog'",
+        "query_id": "dunk-low-grey-fog-dd1391-103",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/083/809/original/952216_00.png.png",
+        "lowest_price": 256.0,
+        "name": "Yeezy Boost 700 'Hi-Res Red'",
+        "query_id": "yeezy-boost-700-hi-res-red-hq6979",
+        "retail_price": 260.0
+    },
+    {
+        "displayed_size": 4.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/064/334/463/original/848748_00.png.png",
+        "lowest_price": 249.0,
+        "name": "Yeezy Boost 350 V2 'Beluga Reflective'",
+        "query_id": "yeezy-boost-350-v2-beluga-reflective-gw1229",
+        "retail_price": 240.0
+    },
+    {
+        "displayed_size": 3.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/072/388/959/original/929996_00.png.png",
+        "lowest_price": 173.0,
+        "name": "Dunk Low GS 'Racer Blue'",
+        "query_id": "dunk-low-gs-racer-blue-dv7067-400",
+        "retail_price": 85.0
+    },
+    {
+        "displayed_size": 4.5,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/074/532/335/original/931515_00.png.png",
+        "lowest_price": 209.0,
+        "name": "Air Jordan 1 Retro High OG 'Yellow Toe'",
+        "query_id": "air-jordan-1-retro-high-og-yellow-toe-555088-711",
+        "retail_price": 170.0
+    },
+    {
+        "displayed_size": 5.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/066/289/710/original/832951_00.png.png",
+        "lowest_price": 169.0,
+        "name": "Wmns Dunk Low 'Light Violet'",
+        "query_id": "wmns-dunk-low-light-violet-dd1503-116",
+        "retail_price": 100.0
+    },
+    {
+        "displayed_size": 6.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/071/980/488/original/918864_00.png.png",
+        "lowest_price": 178.0,
+        "name": "Wmns Dunk Low Disrupt 2 'Pale Ivory'",
+        "query_id": "wmns-dunk-low-disrupt-2-pale-ivory-dh4402-101",
+        "retail_price": 110.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/066/733/753/original/823956_00.png.png",
+        "lowest_price": 206.0,
+        "name": "Air Jordan 4 Retro GS 'Red Thunder'",
+        "query_id": "air-jordan-4-retro-gs-red-thunder-408452-016",
+        "retail_price": 140.0
+    },
+    {
+        "displayed_size": 4.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/075/378/200/original/996991_00.png.png",
+        "lowest_price": 98.0,
+        "name": "Dunk Low Next Nature GS 'Homer'",
+        "query_id": "dunk-low-next-nature-gs-homer-dx3382-400",
+        "retail_price": 90.0
+    },
+    {
+        "displayed_size": 8.0,
+        "image_url": "https://image.goat.com/attachments/product_template_pictures/images/049/864/223/original/721864_00.png.png",
+        "lowest_price": 362.0,
+        "name": "Air Jordan 4 Retro 'Taupe Haze'",
+        "query_id": "air-jordan-4-retro-taupe-haze-db0732-200",
+        "retail_price": 200.0
+    }
+]
