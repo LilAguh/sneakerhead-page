@@ -30,4 +30,4 @@ function fetchSneakers(URL, container) {
         });
 }
 
-fetchSneakers("./data.json", cardContainer)
+fetchSneakers(url, cardContainer)
