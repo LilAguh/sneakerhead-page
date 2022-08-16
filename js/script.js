@@ -30,4 +30,4 @@ function fetchSneakers(URL, container) {
         });
 }
 
-fetchSneakers("https://github.com/LilAguh/sneakerhead-page/blob/main/data.json", cardContainer)
+fetchSneakers("./data.json", cardContainer)
